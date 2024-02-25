@@ -1,1 +1,1 @@
-# Bilyi.University.Example
+# Bilyi.University.CaloryTracker
